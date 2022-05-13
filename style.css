@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Play";
+    src: url("Play-Regular.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 10x;
+}
+
+html{
+    width: 100%;
+    font-family: "Play";
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color:  rgb(2, 2, 17);
+    background-image: url("https://miro.medium.com/max/1400/1*35WvfUj5a1aG96nI1sMSMw.jpeg");
+    flex-wrap: "100%";
+}
+
+canvas{
+    display: block;
+    margin: 10vh auto;
+    background-color: navy;
+    background-image: url("https://i.pinimg.com/originals/98/57/22/9857223e66d6a9b5e47fe312c092a50d.jpg=");
+}
+
+
+container{
+    background-image: url("https://i.pinimg.com/736x/3f/81/99/3f81997bc647f570a3a30653bbd73c73.jpg") height ="200" width= 100% alt="476757-spaceinvaderslogo>";
+    
+}
+

@@ -6,8 +6,8 @@ Wireframe - (https://user-images.githubusercontent.com/10271092/168493805-ea206b
 
 
 Explanations of specific Technologies - HTML, CSS and JavaScript were used to make this project. 
-The Canvas element was of particular importance for isloating the game play. Using the canvas element allowed me 
-to change the background to a real space image. I also changed the body tag on the main html by using CSS, but I purposely using a JPEG image 
+The window object and canvas element were of particular importance for setting up and isloating the game play. Using the canvas element allowed me 
+to change the background to a real space image. I also changed the body tag on the main html by using CSS, but I purposely used a GIF image 
 to give it a wow factor.
 
 Approach Taken - My approach was study the programming logic of the game. I did this by parsing the 
